@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26080'
     url: http://www.gutenberg.org/2009/agents/26080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23846#The-Flag-Replaced-on-SumterA-Personal-Narrative
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-12-13'
 gutenberg_type: Text
